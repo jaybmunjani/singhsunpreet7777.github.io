@@ -17,7 +17,7 @@ Mockup illustrations are present in the Assignment documents.
 <br>
 
 <b>Solution Links:</b> <br>
-- [Module 2 Solution](file:///C:/Users/Dell/Desktop/1245/singhsunpreet7777.github.io/module-2-solution/index.html) <br>
+- [Module 2 Solution](http://singhsunpreet7777.github.io/module-2-solution/index.html) <br>
 - [Module 3 Solution](file:///C:/Users/Dell/Desktop/1245/singhsunpreet7777.github.io/module-3-solution/index.html) <br>
 - [Module 4 Solution](file:///C:/Users/Dell/Desktop/1245/singhsunpreet7777.github.io/module-4-solution/index.html) <br>
 - [Module 5 Solution](file:///C:/Users/Dell/Desktop/1245/singhsunpreet7777.github.io/module-5-solution/index.html) <br>
