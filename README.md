@@ -4,6 +4,7 @@
 ###HTML, CSS, JavaScript for Web Developers
 ####Johns Hopkins University
 #####Coursera
+
 <hr>
 This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera. <br>
 
@@ -18,6 +19,7 @@ Mockup illustrations are present in the Assignment documents.
 
 <b>Solution Links:</b> <br>
 - [Module 2 Solution](http://singhsunpreet7777.github.io/module-2-solution/index.html) <br>
-- [Module 3 Solution](file:///C:/Users/Dell/Desktop/1245/singhsunpreet7777.github.io/module-3-solution/index.html) <br>
-- [Module 4 Solution](file:///C:/Users/Dell/Desktop/1245/singhsunpreet7777.github.io/module-4-solution/index.html) <br>
-- [Module 5 Solution](file:///C:/Users/Dell/Desktop/1245/singhsunpreet7777.github.io/module-5-solution/index.html) <br>
+- [Module 3 Solution](http://singhsunpreet7777.github.io/module-3-solution/index.html) <br>
+- [Module 4 Solution](http://singhsunpreet7777.github.io/module-4-solution/index.html) <br>
+- [Module 5 Solution](http://singhsunpreet7777.github.io/module-5-solution/index.html) <br>
+#sunpreet singh
